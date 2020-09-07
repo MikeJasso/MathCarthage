@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "b34452a6393de56e4bb5dd2f469507c4bb68831d",
+  "iOS" : [
+    {
+      "hash" : "954362f00884124fe14b7a4a12b3f50899a53a3713ef7cb3e76fb28530ba1060",
+      "name" : "MathCarthage",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

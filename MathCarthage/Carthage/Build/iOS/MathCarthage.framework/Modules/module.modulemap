@@ -1,0 +1,11 @@
+framework module MathCarthage {
+  umbrella header "MathCarthage.h"
+
+  export *
+  module * { export * }
+}
+
+module MathCarthage.Swift {
+    header "MathCarthage-Swift.h"
+    requires objc
+}
